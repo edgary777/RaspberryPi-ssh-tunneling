@@ -1,8 +1,8 @@
 # SSH Tunneling with a client raspberry pi
 
 ## Prerequisites
--You need to have access to a public ssh server (Digital Ocean, AWS, etc...) and a raspberry pi.
--install autossh ``sudo apt install autossh``
+- You need to have access to a public ssh server (Digital Ocean, AWS, etc...) and a raspberry pi.
+- install autossh ``sudo apt install autossh``
 
 
 ## Setup
